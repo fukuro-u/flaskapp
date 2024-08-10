@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+
+# C files
+*.c
+*.h
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+*.egg-info/
+.env
+.venv
+/venv/
+
+# Local configuration
+local_settings.py
+*.pem
+*.key
+*.crt
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+*.o
+*.so
+*.a
+
+# Virtualenv
+.venv/
+env/
+venv/
+*.env*
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Django
+*.sqlite3
+db.sqlite3
+db.sqlite
+local_settings.py
+manage.py
+
+# Flask
+instance/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Other common files
+*.swp
+*.bak
+*.tmp
+*~
+.DS_Store
